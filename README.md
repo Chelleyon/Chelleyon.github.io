@@ -6,9 +6,12 @@ Before I do that I know I do not have enough knowledge and experience about cult
 
 ### Skills ⛓️
 
-HTML 	★★☆☆☆ 	Java 	★★★☆☆
-CSS 	★☆☆☆☆ 	Flutter 	★☆☆☆☆
-AutoCad	★★★☆☆ 	Python 	★★☆☆☆
+HTML 	★★☆☆☆ 
+Java 	★★★☆☆
+CSS 	★☆☆☆☆ 
+Flutter ★☆☆☆☆
+AutoCad	★★★☆☆ 
+Python 	★★☆☆☆
 
 ### Experiences 🔧
 
@@ -24,9 +27,9 @@ AutoCad	★★★☆☆ 	Python 	★★☆☆☆
 For more details see 🔗[My Instagram](https://www.instagram.com/sserhatfe/?hl=tr).
 
 ### Contacts
-👉🏾E-mail📧selocan_2604@hotmail.com
-👉🏾Twitter📣https://twitter.com/Melwisloer
-👉🏾Instagram🤝https://www.instagram.com/sserhatfe/?hl=tr
+👉🏾📧[E-mail]selocan_2604@hotmail.com
+👉🏾📣[Twitter](https://twitter.com/Melwisloer)
+👉🏾🤝[Instagram](https://www.instagram.com/sserhatfe/?hl=tr)
 
 
 ### Support ℹ️
