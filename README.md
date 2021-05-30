@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+##🎊🎊🎊 Welcome to My Personal Page🎊🎊🎊
 
-You can use the [editor on GitHub](https://github.com/Chelleyon/Chelleyon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi my name is Serhat and I study Civil Engineering at Gazi University. I make different home plans from different cultures. I want to mix two or three culturel home design or autocad plans.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before I do that I know I do not have enough knowledge and experience about cultures and designs but I have a passion for that and I am ambitious so I set up this site because I want to transfer the experiences I will gain here.
 
-### Markdown
+### Skills ⛓️
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HTML 	★★☆☆☆ 	Java 	★★★☆☆
+CSS 	★☆☆☆☆ 	Flutter 	★☆☆☆☆
+AutoCad	★★★☆☆ 	Python 	★★☆☆☆
 
-```markdown
-Syntax highlighted code block
+### Experiences 🔧
 
-# Header 1
-## Header 2
-### Header 3
+# 3 years internship Demir Yapı İnşaat 
+# 1 year internship at Cem rchitecture
+# Studying Civil Engineering now at Gazi University
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+1. My Autocad Drawings
+2. My opinions about different country home drawings
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+For more details see 🔗[My Instagram](https://www.instagram.com/sserhatfe/?hl=tr).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contacts
+👉🏾E-mail📧selocan_2604@hotmail.com
+👉🏾Twitter📣https://twitter.com/Melwisloer
+👉🏾Instagram🤝https://www.instagram.com/sserhatfe/?hl=tr
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chelleyon/Chelleyon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Support ℹ️
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have a any question about drawings or studying civil engineering, please send me e-mail or send message from my instagram
